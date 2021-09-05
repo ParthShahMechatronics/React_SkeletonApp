@@ -99,7 +99,7 @@ export default function LoginScreen({ navigation }) {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#e93b81',
+    backgroundColor: '#e9a33b',
     paddingTop: 50,
     paddingHorizontal: 12
   },
